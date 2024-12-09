@@ -410,6 +410,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   animator: {fileID: 1282851623}
+  AnimationPlayedRLSL: 0
 --- !u!114 &1282851625
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -7,6 +7,7 @@ public class ReimuWalks : MonoBehaviour
     private Rigidbody2D body; // provem fisica
     private Vector2 axisMovement; // vetor de duas dimensoes
     public Animator animator;
+    public bool AnimationPlayedRLSL;
 
     void Start()
     {
